@@ -1,0 +1,21 @@
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\bin\Debug\my calculator 22.exe.config
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\bin\Debug\my calculator 22.exe
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\bin\Debug\my calculator 22.pdb
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my_calculator_22.Form1.resources
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my_calculator_22.Properties.Resources.resources
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.exe
+C:\Users\hp\source\repos\my calculator 22\my calculator 22\obj\Debug\my calculator 22.pdb
+C:\Users\hp\Desktop\my calculator 22\bin\Debug\my calculator 22.exe.config
+C:\Users\hp\Desktop\my calculator 22\bin\Debug\my calculator 22.exe
+C:\Users\hp\Desktop\my calculator 22\bin\Debug\my calculator 22.pdb
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my calculator 22.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my_calculator_22.Form1.resources
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my_calculator_22.Properties.Resources.resources
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my calculator 22.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my calculator 22.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my calculator 22.exe
+C:\Users\hp\Desktop\my calculator 22\obj\Debug\my calculator 22.pdb
